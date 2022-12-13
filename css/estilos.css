@@ -32,3 +32,9 @@ body{
 #logo img {
     width: inherit;
 }
+#footer {
+    background-color: #555;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+}
